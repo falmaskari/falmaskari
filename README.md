@@ -24,4 +24,4 @@ I'm a Full-Stack Developer Trainee at Code Academy Oman. I love creating dynamic
 <h3>My Github Stats</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=falmaskari&theme=default)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default)
+![Fatma Almaskari GitHub stats](https://github-readme-stats.vercel.app/api?username=falmaskari&show_icons=true&theme=default)
